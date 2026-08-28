@@ -2,7 +2,7 @@
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Tecnologia](https://img.shields.io/badge/Ferramenta-NotebookLM-blue)
-![Plataforma](https://img.shields.io/badge/DIO-Projeto--Pr%C3%A1tico-orange)
+
 
 ## 🎯 Contexto e Objetivos
 
